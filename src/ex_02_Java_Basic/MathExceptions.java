@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ex_02_Java_Basic;
 
 public class MathExceptions {
     public static void main(String[] args) {
