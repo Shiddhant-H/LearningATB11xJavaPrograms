@@ -16,7 +16,7 @@ public class Ex_ArithmaticFunction12March {
 
         double Ans = Math.cbrt((Math.sqrt(x)) + (Math.sqrt(y)) - (Math.abs(z)));
 
-        System.out.println("Ans"+Ans);
+        System.out.println("Ans = "+Ans);
 
     }
 }
