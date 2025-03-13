@@ -1,4 +1,4 @@
-package ex_02_Java_Basic;
+package Tasks;
 
 public class Ex_TableOf9Extra01WithoutLoop {
     public static void main(String[] args) {

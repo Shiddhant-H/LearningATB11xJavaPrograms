@@ -1,4 +1,4 @@
-package ex_02_Java_Basic;
+package Tasks;
 
 public class Ex_BestCodeFormForTableOf9 {
     public static void main(String[] args) {
